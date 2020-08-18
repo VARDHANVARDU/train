@@ -1,0 +1,19 @@
+{
+	"details": {
+		"name": "MUPPASANI SAI VARDHAN",
+		"age": 21,
+		"dob": "12 - 03 - 1999",
+		"image":"god.jpeg",
+		"edu": [10, "inter", "b.tech"]
+	},
+	"frnds": [{
+			"name": "Naveen",
+			"place": "Sulurpet"
+		},{
+			"name": "Harish",
+			"place": "Kavali"
+		},{
+			"name": "Deepak",
+			"place": "Tirupati"
+		}]
+}
